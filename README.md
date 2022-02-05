@@ -27,3 +27,4 @@ There is some bending going on in model which limits the accuracy. (so far it se
 
 ##Other
 This is still a very early first version that needs a significant amount of extra work.
+Some pictures of the cad drawing in the pictures folder
